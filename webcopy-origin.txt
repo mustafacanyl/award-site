@@ -1,0 +1,120 @@
+Uri: https://award.cf/
+File Name: C:\Downloaded Web Sites\award.cf\index.htm
+Content Type: text/html
+
+Uri: https://cdn.glitch.com/bbb12b97-913f-4b98-9a2a-9779d7bfd19d%2Fawards.png?v=1605646160432
+File Name: C:\Downloaded Web Sites\award.cf\bbb12b97-913f-4b98-9a2a-9779d7bfd19dawards.png
+Content Type: image/png
+
+Uri: https://award.cf/css/styleish.css
+File Name: C:\Downloaded Web Sites\award.cf\css\styleish.css
+Content Type: text/css
+
+Uri: http://www.alpdurak.ga/
+File Name: C:\Downloaded Web Sites\award.cf\index-1.htm
+Content Type: text/html
+
+Uri: https://award.cf/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://top.gg/bot/731219163317534740/vote
+File Name: C:\Downloaded Web Sites\award.cf\bot\731219163317534740\vote.html
+Content Type: text/html
+
+Uri: https://kit.fontawesome.com/529ae4687d.js
+File Name: C:\Downloaded Web Sites\award.cf\529ae4687d.js
+Content Type: text/javascript
+
+Uri: https://cdn.discordapp.com/attachments/780786338931671085/780798349044482078/d293f85a-c8ad-46ec-9682-29ef83f6ea11_lesh_bot.png
+File Name: C:\Downloaded Web Sites\award.cf\attachments\780786338931671085\780798349044482078\d293f85a-c8ad-46ec-9682-29ef83f6ea11_lesh_bot.png
+Content Type: image/png
+
+Uri: https://award.cf/1.svg
+File Name: C:\Downloaded Web Sites\award.cf\1.svg
+Content Type: image/svg+xml
+
+Uri: https://images.discordapp.net/avatars/743798972593864834/a_9a0e09b0cc7aaa60cd8531b8515a9ed6.gif?size=128
+File Name: C:\Downloaded Web Sites\award.cf\avatars\743798972593864834\a_9a0e09b0cc7aaa60cd8531b8515a9ed6.gif
+Content Type: image/gif
+
+Uri: https://images.discordapp.net/avatars/715576724674314360/ff0f67baa17e60ef8bdf87329cf2f4bb.png?size=128+
+File Name: C:\Downloaded Web Sites\award.cf\avatars\715576724674314360\ff0f67baa17e60ef8bdf87329cf2f4bb.png
+Content Type: image/png
+
+Uri: https://images.discordapp.net/avatars/749609138249793557/a_693b350d0bddfba5097f413ebaaa7300.png?size=128
+File Name: C:\Downloaded Web Sites\award.cf\avatars\749609138249793557\a_693b350d0bddfba5097f413ebaaa7300.png
+Content Type: image/png
+
+Uri: https://award.cf/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://award.cf/js/mainn.js
+File Name: C:\Downloaded Web Sites\award.cf\js\mainn.js
+Content Type: application/javascript
+
+Uri: https://award.cf/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Downloaded Web Sites\award.cf\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Downloaded Web Sites\award.cf\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/b9XpPfB9wb
+File Name: C:\Downloaded Web Sites\award.cf\invite\b9XpPfB9wb.html
+Content Type: text/html
+
+Uri: https://award.cf/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://award.cf/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://award.cf/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://award.cf/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://award.cf/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://award.cf/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://award.cf/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://award.cf/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://award.cf/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://award.cf/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\award.cf\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://dash.cloudflare.com/sign-up?utm_source=email_protection
+File Name: C:\Downloaded Web Sites\award.cf\sign-up.html
+Content Type: text/html
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Downloaded Web Sites\award.cf\5xx-error-landing\index.htm
+Content Type: text/html
+
